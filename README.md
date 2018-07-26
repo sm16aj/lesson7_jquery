@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 27th, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Shira Menaged)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Take the recipe display application and add in jquery elements that is interactive with the user. )
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://sm16aj.github.io/lesson7_jquery/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned JQuery methods for DOM manipulation such ass css(), which adds css value to one or more elements.)
+2. (used invoke methods within a page to add cool effect to it such as the "hover" function.)
+3. (Worked sith color element for h3 headers like ingredients and intructions.)
 
